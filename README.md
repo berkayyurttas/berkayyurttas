@@ -1,9 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Berkay Yurttaş</h1>
 <h3 align="center">Yazılım Mühendisliği Öğrencisi | Veri Bilimi & Yapay Zeka Meraklısı | İş Analisti & Veri Mühendisliği Adayı</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=berkayyurttas&label=Ziyaretçi%20Sayısı&color=blue&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -15,8 +12,7 @@
 
 ### 🇹🇷 Hakkımda
 - 🎓 **Yazılım Mühendisliği** öğrencisiyim ve aynı zamanda **Yönetim Bilişim Sistemleri (Açıköğretim)** okumaktayım.  
-- 💼 Şu anda **Konumsal Bilgi Sistemleri** şirketinde çalışıyorum.  
-- 🤖 Ekibimle birlikte **TÜBİTAK projesi** kapsamında bir **robot geliştirme** çalışması yürütüyoruz; bu projede **ROS** ve **Gazebo** teknolojileriyle çalışıyorum.  
+- 🤖 Ekip arkadaşlarımla birlikte **TÜBİTAK projesi** kapsamında bir **robot geliştirme** çalışması yürütüyoruz; bu projede **ROS** ve **Gazebo** teknolojileriyle çalışıyorum.  
 - 🧠 **Python**, **SQL**, ve **Veri Tabanı Yönetim Sistemleri** konularında kendimi geliştiriyorum.  
 - 💻 **Frontend** tarafında **JavaScript** teknolojileriyle projeler geliştirdim.  
 - 📊 **Veri Bilimi**, **Veri Mühendisliği** ve **Makine Öğrenmesi** alanlarına özel ilgi duyuyorum.  
