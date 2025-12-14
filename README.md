@@ -25,7 +25,7 @@
 - 🎓 I’m a **Software Engineering student**, also studying **Management Information Systems (Open Education)**  
 - 💼 Currently working at **Konumsal Bilgi Sistemleri**  
 - 🤖 Working on a **TÜBİTAK robotics project** using **ROS** and **Gazebo**  
-- 🧠 Improving my skills in **Python**, **SQL**, and **Database Systems**  
+- 🧠 Improving my skills in **Python**, **SQL**, **R** and **Database Systems**  
 - 💻 Experienced in **JavaScript** and **Frontend Development**  
 - 📊 Passionate about **Data Science**, **Data Engineering**, and **Machine Learning**  
 - 💬 Interested in **Business Analysis** and **Project Process Management**  
