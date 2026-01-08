@@ -11,26 +11,36 @@
 ---
 
 ### 🇹🇷 Hakkımda
-- 🎓 **Yazılım Mühendisliği** öğrencisiyim ve aynı zamanda **Yönetim Bilişim Sistemleri (Açıköğretim)** okumaktayım.  
-- 🤖 Ekip arkadaşlarımla birlikte **TÜBİTAK projesi** kapsamında bir **robot geliştirme** çalışması yürütüyoruz; bu projede **ROS** ve **Gazebo** teknolojileriyle çalışıyorum.  
-- 🧠 **Python**, **R**, **SQL**, ve **Veri Tabanı Yönetim Sistemleri** konularında kendimi geliştiriyorum.  
-- 💻 **Frontend** tarafında **JavaScript** teknolojileriyle projeler geliştirdim.  
-- 📊 **Veri Bilimi**, **Veri Mühendisliği** ve **Makine Öğrenmesi** alanlarına özel ilgi duyuyorum.  
-- 💬 **İş analizi** ve **proje süreç yönetimi** konularında aktif olarak kendimi geliştiriyorum.  
-- 🚀 Amacım, teknik bilgiyle analitik düşünmeyi birleştirerek **veri odaklı iş çözümleri** üretmek.  
+🎓 Yazılım Mühendisliği öğrencisiyim ve aynı zamanda Yönetim Bilişim Sistemleri (Açıköğretim) okumaktayım.
+
+🤖 Ekip arkadaşlarımla birlikte TÜBİTAK projesi kapsamında bir robot geliştirme çalışması yürütüyoruz; bu projede ROS ve Gazebo teknolojileriyle çalışıyorum.
+
+🧠 Python, R, SQL ve Veri Tabanı Yönetim Sistemleri konularında uzmanlaşmaya devam ediyorum.
+
+💻 Frontend tarafında JavaScript, React ve Next.js teknolojileriyle modern web projeleri geliştiriyorum.
+
+📊 Veri Bilimi, Veri Mühendisliği ve Makine Öğrenmesi alanlarına özel ilgi duyuyorum.
+
+♾️ DevOps süreçleri, İş Analizi ve Proje Yönetimi konularında kendimi aktif olarak geliştiriyorum.
+
+🚀 Amacım, teknik bilgiyle analitik düşünmeyi birleştirerek veri odaklı iş çözümleri üretmek.
 
 ---
 
 ### 🌍 About Me (English)
-- 🎓 I’m a **Software Engineering student**, also studying **Management Information Systems (Open Education)**  
-- 💼 Currently working at **Konumsal Bilgi Sistemleri**  
-- 🤖 Working on a **TÜBİTAK robotics project** using **ROS** and **Gazebo**  
-- 🧠 Improving my skills in **Python**, **SQL**, **R** and **Database Systems**  
-- 💻 Experienced in **JavaScript** and **Frontend Development**  
-- 📊 Passionate about **Data Science**, **Data Engineering**, and **Machine Learning**  
-- 💬 Interested in **Business Analysis** and **Project Process Management**  
-- 🚀 My goal is to combine analytical thinking with technical knowledge to create **data-driven business solutions**  
+🎓 I am a Software Engineering student, also pursuing a degree in Management Information Systems.
 
+🤖 Currently working on a TÜBİTAK-funded robotics project with my team, focusing on ROS and Gazebo.
+
+🧠 Improving my skills in Python, R, SQL, and Database Management Systems (DBMS).
+
+💻 Developing modern web applications using JavaScript, React, and Next.js on the frontend.
+
+📊 Deeply interested in Data Science, Data Engineering, and Machine Learning.
+
+♾️ Actively developing myself in DevOps, Business Analysis, and Project Management processes.
+
+🚀 My goal is to combine technical expertise with analytical thinking to create data-driven business solutions.
 ---
 
 🛠️ Kullandığım Teknolojiler / Languages and Tools
