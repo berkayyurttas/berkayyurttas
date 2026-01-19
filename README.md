@@ -46,14 +46,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayyurttas&show_icons=true&theme=tokyo-night&count_private=true&hide_border=true" alt="Berkay's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyurttas&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Langs" height="195" />
-</p>
-
----
-
 ### 🕓 Aktivite Grafiği
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkayyurttas&theme=tokyo-night&hide_border=true" width="100%" />
