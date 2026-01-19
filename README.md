@@ -40,9 +40,17 @@
 | Alan | Teknolojiler |
 | :--- | :--- |
 | **Development & Architecture** | C#, .NET 10, ABP Framework, PostgreSQL, DDD, Git |
-| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu) |
+| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu), C++ |
 | **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | **DevOps** | Docker, GitHub Actions, Redis |
+
+---
+
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayyurttas&show_icons=true&theme=tokyo-night&count_private=true&hide_border=true" alt="Berkay's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyurttas&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Langs" height="195" />
+</p>
 
 ---
 
@@ -58,10 +66,10 @@
 
 ---
 <p align="center">
-  <a href="https://linkedin.com/in/berkayyurttas">
+  <a href="https://www.linkedin.com/in/berkay-yurtta%C5%9F-786091290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:berkayyurttas@example.com">
+  <a href="mailto:byurttas2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
