@@ -44,13 +44,6 @@
 | **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | **DevOps** | Docker, GitHub Actions, Redis |
 
----
-
-### 📊 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayyurttas&show_icons=true&theme=tokyo-night&count_private=true&hide_border=true" alt="Berkay's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyurttas&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Langs" height="195" />
-</p>
 
 ---
 
