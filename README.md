@@ -1,79 +1,58 @@
 <h1 align="center">Merhaba 👋, Ben Berkay Yurttaş</h1>
-<h3 align="center">Yazılım Mühendisliği Öğrencisi | Veri Bilimi & Yapay Zeka Meraklısı | İş Analisti & Veri Mühendisliği Adayı</h3>
+<h3 align="center">Software Engineer & Robot Developer | Fullstack DevOps & Automation Specialist</h3>
 
-
----
-
-### 🎯 Hedefim / My Goal
-> “Veri odaklı sistemler tasarlayan, teknolojiyi iş süreçleriyle birleştiren bir **İş Analisti** ve **Veri Mühendisi** olmak istiyorum.”  
-> I aim to become a **Business Analyst** and **Data Engineer** who designs data-driven systems that bridge technology and business.
-
----
-
-### 🇹🇷 Hakkımda
-🎓 Yazılım Mühendisliği öğrencisiyim ve aynı zamanda Yönetim Bilişim Sistemleri (Açıköğretim) okumaktayım.
-
-🤖 Ekip arkadaşlarımla birlikte TÜBİTAK projesi kapsamında bir robot geliştirme çalışması yürütüyoruz; bu projede ROS ve Gazebo teknolojileriyle çalışıyorum.
-
-🧠 Python, R, SQL ve Veri Tabanı Yönetim Sistemleri konularında uzmanlaşmaya devam ediyorum.
-
-💻 Frontend tarafında JavaScript, React ve Next.js teknolojileriyle modern web projeleri geliştiriyorum.
-
-📊 Veri Bilimi, Veri Mühendisliği ve Makine Öğrenmesi alanlarına özel ilgi duyuyorum.
-
-♾️ DevOps süreçleri, İş Analizi ve Proje Yönetimi konularında kendimi aktif olarak geliştiriyorum.
-
-🚀 Amacım, teknik bilgiyle analitik düşünmeyi birleştirerek veri odaklı iş çözümleri üretmek.
-
----
-
-### 🌍 About Me (English)
-🎓 I am a Software Engineering student, also pursuing a degree in Management Information Systems.
-
-🤖 Currently working on a TÜBİTAK-funded robotics project with my team, focusing on ROS and Gazebo.
-
-🧠 Improving my skills in Python, R, SQL, and Database Management Systems (DBMS).
-
-💻 Developing modern web applications using JavaScript, React, and Next.js on the frontend.
-
-📊 Deeply interested in Data Science, Data Engineering, and Machine Learning.
-
-♾️ Actively developing myself in DevOps, Business Analysis, and Project Management processes.
-
-🚀 My goal is to combine technical expertise with analytical thinking to create data-driven business solutions.
----
-
-🛠️ Kullandığım Teknolojiler / Languages and Tools
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Gazebo-FFB000?style=for-the-badge&logo=gazebo&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
-
----
-
-### 🧩 İlgi Alanlarım / Interests
-- 🧮 **Veri Bilimi (Data Science)**
-- 🧱 **Veri Mühendisliği (Data Engineering)**
-- 🤖 **Makine Öğrenmesi (Machine Learning)**
-- 🧹 **Veri Ön İşleme (Data Preprocessing)**
-- 🗃️ **Veri Tabanları (SQL,SQLite)**
-- 💼 **İş Analizi ve Proje Süreç Yönetimi**
-- ⚙️ **Robotik ve Simülasyon (ROS, Gazebo)**
-
----
-
-
----
-
-### 🕓 GitHub Katkı Grafiği / Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkayyurttas&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
 
+### 🚀 Hakkımda / About Me
+🎓 **Ostim Teknik Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim. Kurumsal yazılım standartları, otonom sistemler ve veri odaklı çözümler üzerine odaklanıyorum.
+
+🛠️ **Fullstack & DevOps:** .NET (ABP Framework) ve Angular ile modern web mimarileri (DDD) geliştiriyorum. Docker ve GitHub Actions kullanarak CI/CD süreçlerini yönetmeyi ve sistemleri optimize etmeyi seviyorum.
+
+🤖 **Automation & Robotics:** TÜBİTAK ve TEKNOFEST projeleri kapsamında ROS2 ve Gazebo kullanarak otonom robot sistemleri ve otomasyon çözümleri geliştiriyorum.
+
+📊 **Data Science:** Python ve R kullanarak veri analitiği, veri ön işleme ve anlamlı modeller oluşturma üzerine çalışıyorum.
+
 ---
 
-### 💡 Söz / Quote I Live By
-> “Veri, kararların pusulasıdır. Onu analiz eden, geleceği şekillendirir.” 📊  
+### 🛠️ Teknolojik Yetkinlikler / Tech Stack
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Fullstack & DevOps** | .NET 10, ABP Framework, Angular, PostgreSQL, Docker, GitHub Actions, Redis |
+| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu), Python, C++ |
+| **Data Science** | Python (Pandas, Scikit-learn), R, SQL, SQLite |
+| **Architecture** | Domain-Driven Design (DDD), Microservices, Akıllı Triyaj Sistemleri |
 
 ---
 
-⭐️ From [Berkay Yurttaş](https://github.com/berkayyurttas)
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayyurttas&show_icons=true&theme=tokyo-night&hide_border=true" alt="Berkay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyurttas&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🕓 Aktivite Grafiği
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkayyurttas&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 💡 Motto
+> "Gelecek, veriyi otomatize eden ve sistemleri akıllandıranların elindedir." ⚙️⚡
+
+---
+<p align="center">
+  <a href="https://linkedin.com/in/berkayyurttas">LinkedIn</a> | 
+  <a href="mailto:eposta-adresin@gmail.com">E-posta</a>
+</p>
