@@ -2,11 +2,14 @@
 <h3 align="center">Software Engineer & Robot Developer | .NET Developer | Automation & Data Science Specialist</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-22314E?style=for-the-badge&logo=pandas&logoColor=white" />
+  
 </p>
 
 ---
@@ -28,7 +31,7 @@
 | :--- | :--- |
 | **Development & Architecture** | C#, .NET 10, ABP Framework, PostgreSQL, DDD, Git |
 | **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu), C++ |
-| **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn, R |
+| **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | **DevOps** | Docker, GitHub Actions, Redis |
 
 ---
