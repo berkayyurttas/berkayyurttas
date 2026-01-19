@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Sql-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
 </p>
 
 <p align="center">
@@ -14,6 +15,7 @@
   <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=Postgresql&logoColor=white" />
 </p>
 
 <p align="center">
