@@ -21,19 +21,17 @@
   <img src="https://img.shields.io/badge/Gazebo-FFB000?style=for-the-badge&logo=gazebo&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-  
-</p>
 
 ---
 
 ### 🚀 Hakkımda / About Me
 🎓 **Ostim Teknik Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim. Kurumsal yazılım mimarileri, otonom sistemler ve veri analitiği üzerine uzmanlaşıyorum.
 
-🛠️ **Backend & DevOps:** .NET (ABP Framework) ile Domain-Driven Design (DDD) prensiplerine uygun projeler geliştiriyorum. Docker ve Git kullanarak CI/CD süreçlerini ve versiyon kontrolünü yönetiyorum.
+🛠️ **Backend & DevOps:** .NET (ABP Framework) ile Domain-Driven Design (DDD) prensiplerine uygun projeler geliştiriyorum. Docker kullanarak CI/CD süreçlerini yönetiyorum.
 
 🤖 **Automation & Robotics:** TÜBİTAK ve TEKNOFEST projeleri kapsamında ROS2 ve Gazebo simülasyon ortamlarında otonom robot sistemleri inşa ediyorum.
 
-📊 **Data Science:** Python ekosisteminde (Pandas, Numpy, Matplotlib, Seaborn) veri ön işleme, görselleştirme ve analiz çalışmaları yapıyorum.
+📊 **Data Science:** Python ekosisteminde veri ön işleme, görselleştirme ve istatistiksel analiz çalışmaları yürütüyorum.
 
 ---
 
@@ -50,8 +48,8 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayyurttas&show_icons=true&theme=tokyo-night&hide_border=true" alt="Berkay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyurttas&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayyurttas&show_icons=true&theme=tokyo-night&count_private=true&hide_border=true" alt="Berkay's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyurttas&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top Langs" height="195" />
 </p>
 
 ---
@@ -68,6 +66,10 @@
 
 ---
 <p align="center">
-  <a href="https://linkedin.com/in/berkayyurttas">LinkedIn</a> | 
-  <a href="mailto:berkayyurttas@example.com">E-posta</a>
+  <a href="https://linkedin.com/in/berkayyurttas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:berkayyurttas@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
