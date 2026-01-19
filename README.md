@@ -1,24 +1,24 @@
 <h1 align="center">Merhaba 👋, Ben Berkay Yurttaş</h1>
-<h3 align="center">Software Engineer & Robot Developer | Fullstack DevOps & Automation Specialist</h3>
+<h3 align="center">Software Engineer & Robot Developer | .NET Developer | Automation & Data Science Specialist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Hakkımda / About Me
-🎓 **Ostim Teknik Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim. Kurumsal yazılım standartları, otonom sistemler ve veri odaklı çözümler üzerine odaklanıyorum.
+🎓 **Ostim Teknik Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim. Kurumsal yazılım mimarileri, otonom sistemler ve veri analitiği üzerine uzmanlaşıyorum.
 
-🛠️ **Fullstack & DevOps:** .NET (ABP Framework) ve Angular ile modern web mimarileri (DDD) geliştiriyorum. Docker ve GitHub Actions kullanarak CI/CD süreçlerini yönetmeyi ve sistemleri optimize etmeyi seviyorum.
+🛠️ **Backend & DevOps:** .NET (ABP Framework) ile Domain-Driven Design (DDD) prensiplerine uygun projeler geliştiriyorum. Docker ve Git kullanarak CI/CD süreçlerini ve versiyon kontrolünü yönetiyorum.
 
-🤖 **Automation & Robotics:** TÜBİTAK ve TEKNOFEST projeleri kapsamında ROS2 ve Gazebo kullanarak otonom robot sistemleri ve otomasyon çözümleri geliştiriyorum.
+🤖 **Automation & Robotics:** TÜBİTAK ve TEKNOFEST projeleri kapsamında ROS2 ve Gazebo simülasyon ortamlarında otonom robot sistemleri inşa ediyorum.
 
-📊 **Data Science:** Python ve R kullanarak veri analitiği, veri ön işleme ve anlamlı modeller oluşturma üzerine çalışıyorum.
+📊 **Data Science:** Python ekosisteminde (Pandas, Numpy, Matplotlib, Seaborn) veri ön işleme, görselleştirme ve analiz çalışmaları yapıyorum.
 
 ---
 
@@ -26,10 +26,10 @@
 
 | Alan | Teknolojiler |
 | :--- | :--- |
-| **Fullstack & DevOps** | .NET 10, ABP Framework, Angular, PostgreSQL, Docker, GitHub Actions, Redis |
-| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu), Python, C++ |
-| **Data Science** | Python (Pandas, Scikit-learn), R, SQL, SQLite |
-| **Architecture** | Domain-Driven Design (DDD), Microservices, Akıllı Triyaj Sistemleri |
+| **Development & Architecture** | C#, .NET 10, ABP Framework, PostgreSQL, DDD, Git |
+| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu), C++ |
+| **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn, R |
+| **DevOps** | Docker, GitHub Actions, Redis |
 
 ---
 
@@ -49,10 +49,10 @@
 ---
 
 ### 💡 Motto
-> "Gelecek, veriyi otomatize eden ve sistemleri akıllandıranların elindedir." ⚙️⚡
+> "Veriyi analiz et, sistemi otomatize et, geleceği inşa et." ⚙️📊
 
 ---
 <p align="center">
   <a href="https://linkedin.com/in/berkayyurttas">LinkedIn</a> | 
-  <a href="mailto:eposta-adresin@gmail.com">E-posta</a>
+  <a href="mailto:berkayyurttas@example.com">E-posta</a>
 </p>
