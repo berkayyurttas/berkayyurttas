@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/ABP%20Framework-1792b1?style=for-the-badge&logo=abp&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+   <img src="https://img.shields.io/badge/PostgreSql-61DAFB?style=for-the-badge&logo=PostgreSql&logoColor=black" />
   <img src="https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
