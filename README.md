@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer & Robot Developer | .NET Developer | Automation & Data Science Specialist</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyurttas&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  
 </p>
 
 ---
