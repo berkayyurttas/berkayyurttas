@@ -61,7 +61,7 @@
 | Alan | Teknolojiler |
 | :--- | :--- |
 | **Development & Architecture** | C#, .NET 10, ABP Framework, PostgreSQL, DDD, Git |
-| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu), C++ |
+| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu)|
 | **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn, SQL |
 | **DevOps** | Docker, GitHub Actions, Redis |
 
