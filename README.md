@@ -52,7 +52,7 @@
 
 🤖 **Automation & Robotics:** TÜBİTAK ve TEKNOFEST projeleri kapsamında ROS2 ve Gazebo simülasyon ortamlarında otonom robot sistemleri inşa ediyorum.
 
-📊 **Data Science:** Python ekosisteminde veri ön işleme, görselleştirme ve istatistiksel analiz çalışmaları yürütüyorum.
+📊 **Data Science:** Python ekosisteminde veri ön işleme, görselleştirme,veri madenciliği ve istatistiksel analiz çalışmaları yürütüyorum.
 
 ---
 
@@ -60,7 +60,7 @@
 
 | Alan | Teknolojiler |
 | :--- | :--- |
-| **Development & Architecture** | C#, .NET 10, ABP Framework, PostgreSQL, DDD, Git |
+| **Development & Architecture** | C#, .NET 10, ABP Framework, Entity Framework, PostgreSQL, DDD, Git |
 | **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu)|
 | **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn, SQL |
 | **DevOps** | Docker, GitHub Actions, Redis |
