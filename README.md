@@ -58,7 +58,6 @@
 | Alan | Teknolojiler |
 | :--- | :--- |
 | **Development & Architecture** | C#, .NET 10, ABP Framework, Entity Framework, PostgreSQL, DDD, Git |
-| 
 | **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn, SQL |
 | **DevOps** | Docker, GitHub Actions, Redis |
 
