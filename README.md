@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Berkay Yurttaş</h1>
-<h3 align="center">Software Engineer & Robot Developer | .NET Developer | Automation & Data Science Specialist</h3>
+<h3 align="center">Software Engineer | .NET Developer | Automation & Data Science Specialist</h3>
 
 <p align="center">
   
@@ -37,8 +37,7 @@
 
 ### 🤖 Robotics & Infrastructure
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-FFB000?style=for-the-badge&logo=gazebo&logoColor=black" />
+
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -50,7 +49,7 @@
 
 🛠️ **Backend & DevOps:** .NET (ABP Framework) ile Domain-Driven Design (DDD) prensiplerine uygun projeler geliştiriyorum. Docker kullanarak CI/CD süreçlerini yönetiyorum.
 
-🤖 **Automation & Robotics:** TÜBİTAK ve TEKNOFEST projeleri kapsamında ROS2 ve Gazebo simülasyon ortamlarında otonom robot sistemleri inşa ediyorum.
+
 
 📊 **Data Science:** Python ekosisteminde veri ön işleme, görselleştirme,veri madenciliği ve istatistiksel analiz çalışmaları yürütüyorum.
 
@@ -61,7 +60,7 @@
 | Alan | Teknolojiler |
 | :--- | :--- |
 | **Development & Architecture** | C#, .NET 10, ABP Framework, Entity Framework, PostgreSQL, DDD, Git |
-| **Automation & Robotics** | ROS2, Gazebo, Linux (Ubuntu)|
+| 
 | **Data Science & Analytics** | Python, Pandas, Numpy, Matplotlib, Seaborn, SQL |
 | **DevOps** | Docker, GitHub Actions, Redis |
 
