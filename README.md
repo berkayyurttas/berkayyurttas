@@ -49,8 +49,6 @@
 
 🛠️ **Backend & DevOps:** .NET (ABP Framework) ile Domain-Driven Design (DDD) prensiplerine uygun projeler geliştiriyorum. Docker kullanarak CI/CD süreçlerini yönetiyorum.
 
-
-
 📊 **Data Science:** Python ekosisteminde veri ön işleme, görselleştirme,veri madenciliği ve istatistiksel analiz çalışmaları yürütüyorum.
 
 ---
